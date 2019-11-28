@@ -1,5 +1,4 @@
 Project M7: TARTU-BUS-ANALYSIS
-
 Project for "Introduction to Data Science" course (2019).
 
 Tartu launched new inner city bus routes in 01.07.2019 [1]. Our project analyses whether the new timetables need changing or not.
@@ -14,12 +13,9 @@ Goal 2:  Find any interesting trends or patterns from the data that could have s
 
 TEAM:
 Kairit Peekman
-
 Kaspar Valk
-
 Mikk-Kaspar Tammi
 
 Links:
 [1] https://tartu.ee/et/liinivork#Liinid-alates-1.-juulist
-
 [2] https://docs.google.com/presentation/d/1swsJMQpWBC8agwqxQSXBqnQM6WNcBkjdC-MCsscuEfw/edit#slide=id.g70b2e3acc7_6_5
