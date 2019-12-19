@@ -1,5 +1,6 @@
-**Project M7: TARTU-BUS-ANALYSIS
-Project for "Introduction to Data Science" course (2019).**
+**Project M7: TARTU-BUS-ANALYSIS**
+
+**Project for "Introduction to Data Science" course (2019).**
 
 **Repository files:**
 * varem.csv - original data about all the occasions when a bus departed over 10s earlier
